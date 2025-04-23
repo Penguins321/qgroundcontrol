@@ -89,8 +89,6 @@ Qt*-linux*.tar.*
 
 # vitepress - user guide
 node_modules/
-docs/.vitepress/cache/
-docs/.vitepress/dist/
 
 CMakeUserPresets.json
 cpm_modules
